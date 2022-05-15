@@ -4,6 +4,6 @@ This repository contains documentation of the standard for exchange of astrometr
 
 Sample data files in GFE format are included in the repository, and correspond to actual observations from five different camera systems of the fall of the Winchcombe meteorite in the UK on 2021-02-28.  In all, sixteen observations were made from five different camera systems, though only five sample files have been uploaded here - one from each type of system.
 
-Jupyter code to read files in GFE format and to generate a sample GFE data file is also included, as is a Jupyter script to convert fireball observations between formats.
+Jupyter code to read files in GFE format and to generate a sample GFE data file is also included, as is a Jupyter script written by UKFAll which converts fireball single-station observations between formats.
 
 How did we come up with the GFE format?  It is very closely based on the Desert Fireball Network's data file format.  The selection process was completed in 2020 and is detailed in a longform draft paper available in this repository, as well as in a shortform slide pack, and also in a 9.5 minute video which is available here: https://player.vimeo.com/video/458077336
